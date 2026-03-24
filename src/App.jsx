@@ -50,7 +50,7 @@ function App() {
             </p>
             <p>
               <a
-                href="https://portefolio-data-analyst.netlify.app/"
+                href="https://portefolio-data-analyst.netlify.app"
                 target="_blank"
                 rel="noreferrer"
               >
